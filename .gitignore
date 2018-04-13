@@ -1,0 +1,8 @@
+/target/
+/logs/
+
+# idea
+.idea
+*.iml
+
+private.properties
